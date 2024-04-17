@@ -5,7 +5,3 @@
 
 ![](https://github.com/AnasElshaer01/Liquid-level-detection/blob/main/Vid/gif.gif)
 
-
-## Authors
-
-- [@AnasElshaer01](https://www.github.com/AnasElshaer01)
