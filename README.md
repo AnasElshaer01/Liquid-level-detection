@@ -2,6 +2,4 @@
 
 <p id="description">This project is aiming for measuring liquid levels by using computer vision techniques with a very simple algorithm</p>
 
-
-![](https://github.com/AnasElshaer01/Liquid-level-detection/blob/main/Vid/gif.gif)
-
+![](https://raw.githubusercontent.com/AnasElshaer01/Liquid-level-detection/main/Vid/gif.gif)
